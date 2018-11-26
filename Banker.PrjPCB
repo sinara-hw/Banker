@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for Banker
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -434,7 +434,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for Banker
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -541,32 +541,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=SIMetrixNetlist
-OutputName21=SIMetrix
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
-OutputType22=SIMPLISNetlist
-OutputName22=SIMPLIS
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=Brother DCP-J315W Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=SIMetrixSimulation
-OutputName1=SIMetrix
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
-OutputType2=SIMPLISSimulation
-OutputName2=SIMPLIS
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
 
 [OutputGroup3]
 Name=Documentation Outputs
