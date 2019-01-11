@@ -21,7 +21,7 @@ TargetOutputMedium=DWG
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Brother DCP-J315W Printer
+TargetPrinter=Bullzip PDF Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -116,7 +116,7 @@ Configuration5_Name1=OutputConfigurationParameter1
 Configuration5_Item1=Record=ExportIDF|VersionNumber=1|DisplayUnits=2|DrilledHolesKind=0|DrilledHolesLargerThanSize=200.0|BlankComponentString= |UseSafeComponentNames=False|UseUnicode=False|MultipleComponentBodyMode=0|FileExtensionType=0|OverrideComponentNameWithParameter= |eoBoardOutline=0|eoDrilledHoles=1|eoPlacement=2
 
 [PublishSettings]
-OutputFilePath2=D:\Dropbox\DESIGNS\Sinara_ALTIUM\EEMs\Banker\Project Outputs for Banker\Panel\Panels_3Dview.PDF
+OutputFilePath2=D:\Dropbox\DESIGNS\Sinara_ALTIUM\EEMs\Banker\Project Outputs for Banker\Panel\Banker.PDF
 ReleaseManaged2=0
 OutputBasePath2=Project Outputs for Banker\
 OutputPathMedia2=Panel
@@ -222,7 +222,7 @@ OutputFileNameSpecial5=
 OpenOutput5=1
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=D:\Dropbox\DESIGNS\Sinara_ALTIUM\EEMs\Banker\Project Outputs for Banker\Panel\Panels_3Dview.PDF
+RelativeOutputPath2=D:\Dropbox\DESIGNS\Sinara_ALTIUM\EEMs\Banker\Project Outputs for Banker\Panel\Banker.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
