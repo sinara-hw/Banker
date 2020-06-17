@@ -4,7 +4,7 @@ EEM with 128 TTL DIOs (64 via local BNC, 64x via VHDCI)
 
 ## Design Files
 
-Design files (schematics, PCB layouts, BOMs) can be found at [Urukul/Banker](https://github.com/sinara-hw/Banker/releases).
+Design files (schematics, PCB layouts, BOMs) can be found at [Banker/Releases](https://github.com/sinara-hw/Banker/releases).
 
 ## Wiki
 
